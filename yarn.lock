@@ -3181,12 +3181,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@stencil/core@npm:^2.22.3":
-  version: 2.22.3
-  resolution: "@stencil/core@npm:2.22.3"
+"@stencil/core@npm:^4.17.0":
+  version: 4.17.0
+  resolution: "@stencil/core@npm:4.17.0"
   bin:
     stencil: bin/stencil
-  checksum: c758a09d70affbc3bccfa37ed84893760fdfbe211ab0c20d5ee45222f8ab412a49b7db1e44acc6cef43caaf33136ded1565d155cf0e87c89da8da0d83dc71bbe
+  checksum: 073417db965fbe1b344028602d1d61f91dfb1476d924c62620ec83f1eb0d37e434cde6b4e7f6de1d246a85d78732527468a69042a8dbdbd8c6777b7a15d0f78a
   languageName: node
   linkType: hard
 
@@ -9720,7 +9720,7 @@ __metadata:
   resolution: "dnn-resource-manager@workspace:DNN Platform/Modules/ResourceManager/ResourceManager.Web"
   dependencies:
     "@dnncommunity/dnn-elements": "npm:^0.15.2"
-    "@stencil/core": "npm:^2.22.3"
+    "@stencil/core": "npm:^4.17.0"
     "@stencil/sass": "npm:^2.0.4"
     "@stencil/store": "npm:^2.0.9"
     "@types/node": "npm:^20.11.16"
