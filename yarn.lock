@@ -5120,7 +5120,7 @@ __metadata:
     redux-devtools-dock-monitor: "npm:1.2.0"
     redux-devtools-log-monitor: "npm:2.1.0"
     redux-immutable-state-invariant: "npm:2.1.0"
-    redux-thunk: "npm:2.4.2"
+    redux-thunk: "npm:3.1.0"
     style-loader: "npm:^0.23.1"
     throttle-debounce: "npm:^5.0.0"
     url-loader: "npm:1.1.2"
@@ -11186,7 +11186,7 @@ __metadata:
     redux-devtools-dock-monitor: "npm:1.2.0"
     redux-devtools-log-monitor: "npm:2.1.0"
     redux-immutable-state-invariant: "npm:2.1.0"
-    redux-thunk: "npm:2.4.2"
+    redux-thunk: "npm:3.1.0"
     source-map-loader: "npm:^0.2.4"
     style-loader: "npm:0.23.1"
     throttle-debounce: "npm:5.0.0"
@@ -19273,7 +19273,7 @@ __metadata:
     redux-devtools-log-monitor: "npm:2.1.0"
     redux-immutable-state-invariant: "npm:2.1.0"
     redux-mock-store: "npm:^1.5.4"
-    redux-thunk: "npm:2.4.2"
+    redux-thunk: "npm:3.1.0"
     style-loader: "npm:^0.23.1"
     throttle-debounce: "npm:^5.0.0"
     url-loader: "npm:1.1.2"
@@ -20611,12 +20611,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"redux-thunk@npm:2.4.2, redux-thunk@npm:^2.4.2":
-  version: 2.4.2
-  resolution: "redux-thunk@npm:2.4.2"
+"redux-thunk@npm:3.1.0, redux-thunk@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "redux-thunk@npm:3.1.0"
   peerDependencies:
-    redux: ^4
-  checksum: 9bcb1193835128ecebf1e1a1b1a37bc15e8dfbdf6b6ee1b5566dd4c8e4ca05a81175f0c6dda34ab47f87053cd13b74d9f881d59446691d7b192831852b5d7a72
+    redux: ^5.0.0
+  checksum: 38c563db5f0bbec90d2e65cc27f3c870c1b6102e0c071258734fac41cb0e51d31d894125815c2f4133b20aff231f51f028ad99bccc05a7e3249f1a5d5a959ed3
   languageName: node
   linkType: hard
 
@@ -21394,7 +21394,7 @@ __metadata:
     react-redux: "npm:^8.1.1"
     redux: "npm:^4.2.1"
     redux-immutable-state-invariant: "npm:^2.1.0"
-    redux-thunk: "npm:^2.4.2"
+    redux-thunk: "npm:^3.1.0"
     style-loader: "npm:^0.23.1"
     url-loader: "npm:1.1.2"
     webpack: "npm:5.88.2"
@@ -21983,7 +21983,7 @@ __metadata:
     redux-devtools-dock-monitor: "npm:1.2.0"
     redux-devtools-log-monitor: "npm:2.1.0"
     redux-immutable-state-invariant: "npm:2.1.0"
-    redux-thunk: "npm:2.4.2"
+    redux-thunk: "npm:3.1.0"
     shortid: "npm:^2.2.16"
     style-loader: "npm:^0.23.1"
     svg-url-loader: "npm:^7.1.1"
@@ -22033,7 +22033,7 @@ __metadata:
     react-redux: "npm:^8.1.1"
     redux: "npm:^4.2.1"
     redux-immutable-state-invariant: "npm:^2.1.0"
-    redux-thunk: "npm:^2.4.2"
+    redux-thunk: "npm:^3.1.0"
     source-map-loader: "npm:^0.2.4"
     style-loader: "npm:^0.23.1"
     url-loader: "npm:1.1.2"
@@ -24315,7 +24315,7 @@ __metadata:
     redux-devtools-dock-monitor: "npm:^1.2.0"
     redux-devtools-log-monitor: "npm:^2.1.0"
     redux-immutable-state-invariant: "npm:^2.1.0"
-    redux-thunk: "npm:^2.4.2"
+    redux-thunk: "npm:^3.1.0"
     services: "npm:^0.0.3"
     style-loader: "npm:^0.23.1"
     throttle-debounce: "npm:^5.0.0"
