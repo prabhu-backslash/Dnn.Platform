@@ -3190,12 +3190,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@stencil/sass@npm:^2.0.4":
-  version: 2.0.4
-  resolution: "@stencil/sass@npm:2.0.4"
+"@stencil/sass@npm:^3.0.12":
+  version: 3.0.12
+  resolution: "@stencil/sass@npm:3.0.12"
   peerDependencies:
-    "@stencil/core": ">=2.0.0 || >=3.0.0-beta.0"
-  checksum: c2b7a1ac4584252da4ed9873c0ab897cd70f293279970495cff765e9bb60e2bceb34bc9f423f94ac3e2a349d7a31a103616b2e83daed00b79e48dde226368207
+    "@stencil/core": ">=2.0.0 || >=3.0.0-beta.0 || >= 4.0.0-beta.0 || >= 4.0.0"
+  checksum: 28af11e4131de3f0336f48dd05594bb0a37815fda06c2603864e10c42b8e9d37fefa8ba0e58bb339210b5fd4eda56fbe435686dc51b34ce8cdfefd092dceb8c9
   languageName: node
   linkType: hard
 
@@ -9721,7 +9721,7 @@ __metadata:
   dependencies:
     "@dnncommunity/dnn-elements": "npm:^0.15.2"
     "@stencil/core": "npm:^2.22.3"
-    "@stencil/sass": "npm:^2.0.4"
+    "@stencil/sass": "npm:^3.0.12"
     "@stencil/store": "npm:^2.0.9"
     "@types/node": "npm:^20.11.16"
   languageName: unknown
